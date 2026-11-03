@@ -22,7 +22,7 @@ Backtested on a 90-day out-of-sample window across 20 store x SKU series:
 Every model is measured against that honest benchmark — a forecast that isn't
 compared to naive isn't telling you anything.
 
-![90-day backtest](outputs/forecast_backtest.png)
+![90-day backtest](forecast_backtest.png)
 
 *Blue = model forecast, black = actual demand, orange dashed = seasonal-naive.
 The model tracks promo and holiday spikes that the naive baseline misses.*
