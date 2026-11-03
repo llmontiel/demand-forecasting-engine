@@ -1,0 +1,6 @@
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+# Optional (auto-detected): richer models if installed
+lightgbm>=4.0
+scikit-learn>=1.3
