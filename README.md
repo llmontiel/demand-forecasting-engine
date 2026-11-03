@@ -1,4 +1,8 @@
 # Demand Forecasting Engine
+[![tests](https://github.com/llmontiel/demand-forecasting-engine/actions/workflows/tests.yml/badge.svg)](https://github.com/llmontiel/demand-forecasting-engine/actions/workflows/tests.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org)
+
 
 Daily SKU-level demand forecasting for grocery retail, built to answer the
 question every supply-chain team cares about: *how many units will we sell, by
